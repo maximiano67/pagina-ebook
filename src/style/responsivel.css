@@ -1,0 +1,327 @@
+@media (max-width: 1355px) {
+
+    .container-info {
+        width: 38%;
+
+        margin: 210px;
+
+    }
+
+    .container-info .texto {
+        font-size: 39px;
+
+    }
+
+    .container-info p {
+        font-size: 14px;
+        font-weight: 500;
+    }
+
+    .container-btn {
+        width: 202px;
+
+    }
+
+    /* Conteudo */
+    .container-info-product {
+        gap: 7px;
+    }
+
+    .container-info-product .img-product {
+        padding: 20px;
+        width: 58%;
+
+    }
+
+    .info-product h2 {
+        font-size: 22px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .texto-info .text-product {
+        width: 90%;
+    }
+
+    .texto-info a {
+        display: flex;
+        justify-content: center;
+    }
+
+    /* Não perca a oportunidade */
+    
+    .container-oportuni .oportuni {
+        text-align: center;
+    }
+}
+
+/* Celullar */
+@media (max-width: 1478px) {
+
+    .container-conteudo {
+        overflow: hidden;
+    }
+
+
+    .container-info {
+        width: 29%;
+
+        margin: 167px;
+
+    }
+
+    .container-info .texto {
+        font-size: 31px;
+
+    }
+
+    .container-info p {
+        font-weight: 500;
+    }
+
+    .container-btn {
+        width: 202px;
+
+    }
+
+    /* Conteudo */
+    .container-info-product {
+        gap: 7px;
+    }
+
+    .container-info-product .img-product {
+        height: 434px;
+
+        width: 49%;
+
+    }
+
+    .info-product h2 {
+        font-size: 22px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .texto-info .text-product {
+        width: 90%;
+    }
+
+    .texto-info a {
+        display: flex;
+        justify-content: center;
+    }
+
+    .text-ajudar {
+        font-size: 12px;
+    }
+
+    .cart {
+        margin: 0px 0px 0px 47px;
+    }
+
+    /* Não perca a oportunidade */
+
+
+    .container-oportuni .oportuni {
+        text-align: center;
+    }
+
+
+    /* footer */
+
+    footer {
+        height: 100px;
+    }
+
+}
+@media (max-width: 1354px) {
+
+    .container-conteudo {
+        overflow: hidden;
+    }
+
+
+    .container-info {
+        width: 29%;
+
+        margin: 167px;
+
+    }
+
+    .container-btn {
+        width: 202px;
+
+    }
+
+    /* Conteudo */
+    .container-info-product {
+        flex-direction: column;
+        gap: 7px;
+    }
+
+    .container-info-product .img-product {
+        height: 400px;
+
+        width: 100%;
+
+    }
+
+    .info-product h2 {
+        font-size: 22px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .texto-info .text-product {
+        width: 90%;
+    }
+
+    .texto-info a {
+        display: flex;
+        justify-content: center;
+    }
+
+    .text-ajudar {
+        font-size: 12px;
+    }
+
+
+    .container-ajudar .container-info-ajudar {
+        flex-direction: column;
+    }
+
+    .cart {
+        margin: 0px;
+        margin-bottom: 20px;
+    }
+
+    /* Não perca a oportunidade */
+    .container-oportuni {
+        width: 46%;
+    }
+
+
+    .container-oportuni .oportuni {
+        text-align: center;
+        font-size: 10px;
+    }
+
+
+    /* footer */
+
+    footer {
+        height: 100px;
+    }
+
+}
+
+@media (max-width: 999px) {
+
+    .container-info {
+        width: 88%;
+
+        margin: 114px 162px 106px 32px;
+
+    }
+
+    .container-info-product .img-product {
+        height: 159px;
+
+        width: 37%;
+
+    }
+
+    /* Não perca a oportunidade */
+    .container-oportuni {
+        width: 59%;
+    }
+
+}
+@media (max-width: 428px) {
+
+    .container-conteudo {
+        overflow: hidden;
+    }
+
+    .container-main {
+        background-image: url(../img/sec-1-1-mossbile.webp);
+    }
+
+    .container-info {
+        width: 88%;
+
+        margin: 40px auto;
+
+    }
+
+    .container-info .texto {
+        font-size: 20px;
+
+    }
+
+    .container-btn {
+        width: 202px;
+
+    }
+
+    /* Conteudo */
+    .container-info-product {
+        flex-direction: column;
+        gap: 7px;
+    }
+
+    .container-info-product .img-product {
+        height: 215px;
+
+        width: 90%;
+
+    }
+
+    .info-product h2 {
+        font-size: 22px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .texto-info .text-product {
+        width: 90%;
+    }
+
+    .texto-info a {
+        display: flex;
+        justify-content: center;
+    }
+
+    .text-ajudar {
+        font-size: 12px;
+    }
+
+
+    .container-ajudar .container-info-ajudar {
+        flex-direction: column;
+    }
+
+    .cart {
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+
+    /* Não perca a oportunidade */
+    .container-oportuni {
+        width: 100%;
+    }
+
+
+    .container-oportuni .oportuni {
+        text-align: center;
+        font-size: 10px;
+    }
+
+
+    /* footer */
+
+    footer {
+        height: 100px;
+    }
+
+}
